@@ -1,0 +1,47 @@
+site_name: cSupport User Guide
+site_description: A detailed guide for cSupport Dashboard.
+site_author: Prajin Shrestha
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'blue'
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.annotate
+    - content.inline_code
+    - search.highlight
+    - search.language('en')
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'images/logo.png'
+
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Features:
+      - Overview: features/overview.md
+      - Configuration: features/configuration.md
+  - Tutorials:
+      - Basic Setup: tutorials/basic_setup.md
+      - Advanced Usage: tutorials/advanced_usage.md
+  - API Reference: api_reference.md
+  - FAQ: faq.md
+  - About: about.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+copyright: 
+ &copy 2023 <a href="worldlink.com.np" target="_blank" rel="noopener">Worldlink Communications</a>
+ 
