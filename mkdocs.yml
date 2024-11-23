@@ -15,7 +15,7 @@ markdown_extensions:
 nav:
  - Overview: 
    - Introduction: index.md
- - Getting Started: 
+ - Getting Started:
    - Login: getting_started.md
  - cSupport Dashboard: 
    - Dashboard: dashboard.md
