@@ -15,9 +15,8 @@ markdown_extensions:
 nav:
  - Overview: 
    - Introduction: index.md
-   - Features: about.md
  - Getting Started: 
-   - Login: getting-started.md
+   - Login: getting_started.md
  - cSupport Dashboard: 
    - Dashboard: dashboard.md
    - Add Bonus: add-bonus.md
@@ -33,5 +32,5 @@ nav:
 
 copyright: |
   Documented By Prajin Shrestha.<br>
-  &copy; 2024 Technical Department - <a href="mailto:programming@worldlink.com.np">Programming</a>
+  &copy; 2024 Technical Department - <a href="mailto:programming@worldlink.com.np">Programming</a>.
   
