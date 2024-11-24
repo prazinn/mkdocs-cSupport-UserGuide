@@ -17,20 +17,11 @@ nav:
    - Introduction: index.md
  - Getting Started:
    - Login: getting_started.md
- - cSupport Dashboard: 
-   - Dashboard: dashboard.md
-   - Add Bonus: add-bonus.md
-   - Buy Package: buy-package.md
-   - Sync Package: sync-package.md
-   - Users: users.md
-   - Wallet Top Up: wallet-top-up.md
-   - Account: account.md
-   - User: user-nav.md
-   - Offers: offer.md
-   - Reports: reports.md
-   - User Management: user-manage.md
-
+ - Home: 
+   - User Dashboard: user-dashboard.md
+   - Navigation Bar: navigation-bar.md
+   
 copyright: |
   Documented By Prajin Shrestha.<br>
-  &copy; 2024 Technical Department - <a href="mailto:programming@worldlink.com.np">Programming</a>.
+  &copy; 2024 Worldlink Communications <a href="mailto:programming@worldlink.com.np">Programming</a>.
   
