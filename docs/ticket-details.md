@@ -36,3 +36,12 @@ This section features a pie chart that visualizes ticket trends over the past we
 </div>
 
 This section provides with the count of tickets that have been opened in the specific problem type.
+
+## Pending Ticket Count
+
+![Daily Problem Trends](img/pending-ticket-count.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey">Fig. Pending Ticket Count</i>
+</div>
+
+This icon will be displayed everywhere in the application. It will show the number of tickets that has currently been assigned to you. Clicking on it will redirect you to the [User Dashboard.](user-dashboard.md)

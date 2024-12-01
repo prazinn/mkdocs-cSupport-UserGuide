@@ -21,7 +21,9 @@ nav:
    - User Dashboard: user-dashboard.md
    - Navigation Bar: navigation-bar.md
    - Ticket Details: ticket-details.md
-
+ - Customer Search Dashboard:
+    - Customer View: customer-view.md
+    - Customer Details: customer-details.md
 copyright: |
   Documented By Prajin Shrestha.<br>
   &copy; 2024 Worldlink Communications <a href="mailto:programming@worldlink.com.np">Programming</a>.

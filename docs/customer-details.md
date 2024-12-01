@@ -1,0 +1,104 @@
+# Customer Details
+![Customer Details](img/customer-details.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Customer Details</i>
+</div>
+
+This is the section where you can find the details of the customer which includes: Contact Information, Branch information, Plan Information, Accout Information and more.
+
+## More
+
+![More](img/more-options.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. More Options</i>
+</div>
+
+By clicking on the more option you will find the following features:
+
+1. Reset Password.
+1. Send Notification.
+1. Add Preferred Languages.
+1. Quick Links.
+
+### Reset Password
+
+This is the feature through which you can reset the Online Service Password(OSP) of the client. Once you click on this option, it will ask you for confirmation.
+
+![Reset Password Confirmation](img/reset-password-prompt.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Reset Password</i>
+</div>
+
+As soon as you click on **`Reset`** the password will be sent to the primary contact number.
+
+### Send Notifications
+
+This is the feature through which you can send notifications to the client's both primary and secondary contact numbers from the available templates. 
+
+![Send Notifications](img/send-notifications.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Send Notifications</i>
+</div>
+
+### Add Preferred Languages
+
+This feature enables you to add the language preferred by the client for communication. You can select multiple languages available in the list.
+
+![Add Preferred Languages](img/add-preferred-languages.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Send Notifications</i>
+</div>
+
+Once the languages are updated, it will be shown in the customer details section:
+
+![Preferred Languages](img/preferred-languages.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Preferred Languages</i>
+</div>
+
+
+### Quick Links
+
+The feature allows you to access other applications without having to enter URLs manually. It currently consists of 4 applications:
+
+1. Client Followup (CFU).
+1. Retail Billing.
+1. NetTv Dashboard.
+1. CRM 360.
+
+
+<!-- NEED TO CHANGE IMAGE -->
+![Quick Links](img/customer-quick-links.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Quick Links</i>
+</div>
+
+## Plan Information
+
+This section provides information about the package the client is currently subscribed to. It is divided into two subsections: Package Details and Other Packages.
+
+![Plan Information](img/plan-information.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Plan Information</i>
+</div>
+
+### Package Details
+ This sections contains detailed information about the package which includes Duration, Number of NetTv that can be added, Price and more.
+
+![Package Detials](img/package-details.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Package Details</i>
+</div>
+
+### Other Packages
+ This section allows you to compare between different packages. It provides a list of packages that the client can change to with different bandwidth and price plans.
+
