@@ -71,7 +71,8 @@ This is the section where we find the total number of users that are connected t
 
 ### ACS Status
 
-This is the section that provides the details regarding the connection status of the ONU with the ACS server. Through this information, we can troubleshoot the myworldlink app and customer portal.
+This is the section that provides the details regarding the connection status of the ONU with the ACS server.
+This information enables the identification of connectivity issues between ONU and ACS, facilitating the debugging of failures in executing ONU-related tasks via myWorldlink app and customer portal.
 
 ![ACS Status](img/acs-status.png){ style="display: block; margin: auto;" }
 
