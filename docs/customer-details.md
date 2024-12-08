@@ -20,6 +20,7 @@ By clicking on the more option you will find the following features:
 1. Reset Password.
 1. Send Notification.
 1. Add Preferred Languages.
+1. Edit Profile.
 1. Quick Links.
 
 ### Reset Password
@@ -60,6 +61,15 @@ Once the languages are updated, it will be shown in the customer details section
 
 <div align="center">
 <i style="font-size: 14px; color: grey;">Fig. Preferred Languages</i>
+</div>
+
+### Edit Profile
+This section allows you to edit customer details, including their name, address, contact numbers, and email. However, updating the primary contact number requires sending an OTP to the customer for verification to ensure security.
+
+![Edit Profile](img/edit-profile.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Edit Profile</i>
 </div>
 
 
