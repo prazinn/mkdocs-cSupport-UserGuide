@@ -72,7 +72,7 @@ This is the section where we find the total number of users that are connected t
 ### ACS Status
 
 This is the section that provides the details regarding the connection status of the ONU with the ACS server.
-This information enables the identification of connectivity issues between ONU and ACS, facilitating the debugging of failures in executing ONU-related tasks via myWorldlink app and customer portal.
+This information enables the identification of connectivity issues between ONU and ACS, facilitating the debugging of failures in executing ONU-related tasks via myWorldlink app and Customer Portal.
 
 ![ACS Status](img/acs-status.png){ style="display: block; margin: auto;" }
 
@@ -115,3 +115,84 @@ This section contains two types of logs: `Connection Logs` and `Port History Log
 <div align="center">
 <i style="font-size: 14px; color: grey;">Fig. Port History Logs List View</i>
 </div><br>
+
+## Wi-Fi
+
+### WIFI Details
+This section lets you easily view the customer's Wi-Fi details. In the older version, eSupport, we could only see the SSID for the 2.4GHz band. With cSupport, you now get a complete view of both the 2.4GHz and 5GHz bands, including their Wi-Fi and broadcast statuses and the authentication mode. It’s a more detailed and user-friendly way to understand the customer’s issues.
+
+![WIFI Details](img/wifi-details.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. WIFI Details</i>
+</div><br>
+
+### Connected Devies
+This section displays a list of devices currently connected to the client’s router, whether via Ethernet or Wi-Fi.
+
+![Connected Devices](img/connected-devices-wifi.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Connected Devices Wi-Fi</i>
+</div><br>
+
+![Connected Devices Ethernet](img/connected-devices-ethernet.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Connected Devices Ethernet</i>
+</div><br>
+
+## NetTv
+
+Under this section, you can check client's NetTv information and logs.
+
+![Nettv](img/nettv.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Nettv</i>
+</div><br>
+
+### NetTv Details
+This section will provide you with the number of NetTv the client has installed with its MAC address and package information. You can directly `ADD BONUS` and `EXTEND` without having to visit another application.
+
+![Nettv Details](img/nettv-details.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Nettv Details</i>
+</div><br>
+
+- **Extend**
+    This feature enables you to extend a client’s package in cases where their current package has expired, ensuring uninterrupted service.
+
+![NetTv Extend](img/nettv-extend.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. NetTv Extend</i>
+</div><br> 
+
+- **Add Bonus:**
+    The Add Bonus feature resolves cases where a customer's NETTV service is interrupted due to system issues, even though their internet package payment was successfully completed.
+
+![Add Bonus](img/add-bonus.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Add Bonus</i>
+</div><br> 
+
+## Internet Usage
+
+The Internet Usage feature makes it easy to track how much data a client has used. You can see details for both uploads and downloads, and use the date filter to check usage during a specific time frame. It’s a simple way to monitor and understand a client’s internet activity, helping you provide better support and service.
+
+![Internet Usage](img/internet-usage.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Internet Usage</i>
+</div>
+!!! note
+    Clicking the arrow button lets you sort the dates to easily find the day with the highest data consumption.
+
+## Ticket History
+
+With the Ticket History feature, you can easily look through past tickets based on the problem type. Simply click on a problem type to view all related tickets. You can also use the date filter to focus on a specific time period by default it shows the data of past 7 days, making it easier to track and spot trends in support requests.
+
+![Ticket Details](img/ticket-history.gif){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Add Bonus</i>
+</div><br> 
