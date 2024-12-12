@@ -196,3 +196,38 @@ With the Ticket History feature, you can easily look through past tickets based 
 <div align="center">
 <i style="font-size: 14px; color: grey;">Fig. Add Bonus</i>
 </div><br> 
+
+## Followup History
+
+With this feature, you can easily see all the remarks from previous follow-ups. It gives you a clear record of every interaction.
+
+![Followup History](img/followup-history.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Followup History</i>
+</div><br> 
+
+- **View Followup**
+    This section allows you to view the remarks from the previous follow-ups.
+
+![View Followup](img/view-followup.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. View Followup</i>
+</div><br>
+
+![Followup Remarks](img/followup-remarks.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Followup Remarks</i>
+</div><br>
+
+- **Add Followup**
+    This section allows you to post remarks after completing a follow-up with the client, ensuring that all interactions are documented for future reference.
+
+![Add Followup](img/add-followup.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Add Followup</i>
+</div><br>
+
+![Post Remarks](img/post-remarks.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Post Remarks</i>
+</div><br>
