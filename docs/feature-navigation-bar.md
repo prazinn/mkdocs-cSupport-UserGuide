@@ -231,3 +231,12 @@ With this feature, you can easily see all the remarks from previous follow-ups. 
 <div align="center">
 <i style="font-size: 14px; color: grey;">Fig. Post Remarks</i>
 </div><br>
+
+## Documents
+
+This section contains all the documents related to the client, including those uploaded during the installation process and any additional documents submitted by the client via the myWorldLink app.
+
+![Documents](img/documents.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Documents</i>
+</div><br>
