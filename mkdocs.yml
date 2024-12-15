@@ -32,8 +32,10 @@ nav:
     - Client Emotion : client-emotion.md
  - Single Ticket Dashboard:
     - Ticket View: ticket-view.md
-  # - Single Ticket Details: single-ticket-details.md
-  # - Single Ticket History: single-ticket-history.md
+    - Ticket Actions: ticket-actions.md
+    - Ticket Cards: ticket-cards.md
+    - Ticket Tables: ticket-tables.md
+    - SLA Timeline: SLA-timeline.md
 copyright: |
   Documented By Prajin Shrestha.<br>
   &copy; 2024 Worldlink Communications <a href="mailto:programming@worldlink.com.np">Programming</a>.

@@ -10,4 +10,7 @@ The Ticket View provides a comprehensive view of a single support ticket. It dis
 This dashboard consists of different components. Some of them are listed below:
 
 1. [Customer Details.](customer-details.md) (*Exact to Customer View* )
-1. 
+1. [Ticket Actions.](ticket-actions.md)
+1. [Ticket Cards.](ticket-cards.md)
+1. [Ticket Tables.](ticket-tables.md)
+1. [SLA Timeline](SLA-timeline.md)

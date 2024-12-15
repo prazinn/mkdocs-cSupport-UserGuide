@@ -18,7 +18,7 @@ This section contains the following components:
 1. [Ticket Indicator](#ticket-indicator)
 1. [Problem Type.](#problem-type)
 1. [Diagnosed Problem.](#diagnosed-problem) 
-1. [Possible Solution.](#possible-solution) 
+1. [Possible Solution.](#possible-solutions) 
 1. [Client Emotion.](#client-emotion)
 1. [Notify Customer.](#notify-customer)
 1. [Remarks.](#remarks)

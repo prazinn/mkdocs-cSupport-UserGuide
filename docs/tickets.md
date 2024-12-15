@@ -2,8 +2,8 @@
 
 This feature is located at the right side of the customer search dashboard. This feature is divided into two categories:
 
-1. [Pending Tickets.](##pending-tickets)
-1. [Past Tickets.](##past-tickets)
+1. [Pending Tickets.](#pending-tickets)
+1. [Past Tickets.](#past-tickets)
 
 ## Pending Tickets
 
