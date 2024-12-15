@@ -66,6 +66,16 @@ This is the section where we find the total number of users that are connected t
 <i style="font-size: 14px; color: grey;">Fig. Network Status</i>
 </div><br>
 
+#### Check Power Level
+
+Power Level of the client connected through that splitter can also be viewed by clicking⚡button. `Low power level will be displayed in red color.`
+
+![Check Power Level](img/check-power-level.gif){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Check Power Level</i>
+</div><br>
+
 !!! note
     Clicking on the username will open a new tab dedicated to that user, providing quick access to their details and activities.
 
@@ -78,6 +88,49 @@ This information enables the identification of connectivity issues between ONU a
 
 <div align="center">
 <i style="font-size: 14px; color: grey;">Fig. ACS Status</i>
+</div><br>
+
+### MEGA BOOST
+
+This section allows you to validate if the client has taken 
+the Mega Boost subscription or not.
+
+![Mega Boost](img/mega-boost.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Mega Boost</i>
+</div><br>
+
+### Account Diagnostic
+
+This section allows you to run account diagnostic. A side bar will appear as soon as the account diagnostic starts runninng. 
+
+![Account Diagnostic](img/account-diagnostic.png){ style="display: block; margin: auto;" }
+
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Account Diagnostic</i>
+</div><br>
+
+![Account Diagnostic Sidebar](img/account-diagnostic-sidebar.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Account Diagnostic Sidebar</i>
+</div><br>
+
+!!! note
+    Location permission of the browser should be provided for the diagnostic to run.
+
+### NWCC Details
+
+This feature allows you to view the informatnion regarding the total number of beacons that are mapped to the client's username and check the status of the ONU in the NWCC portal. Also, by clicking on `View on NWCC Portal` you will be redirected to the NWCC Portal itself.
+
+![NWCC Details Beacon](img/nwcc-details-beacon.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. NWCC Details Beacon</i>
+</div><br>
+
+![NWCC Details ONU](img/nwcc-details-onu.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. NWCC Details ONU</i>
 </div><br>
 
 ## Logs

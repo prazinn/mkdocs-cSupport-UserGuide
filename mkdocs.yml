@@ -30,6 +30,10 @@ nav:
     - Tickets : tickets.md 
     - Activites : activites.md
     - Client Emotion : client-emotion.md
+ - Single Ticket Dashboard:
+    - Ticket View: ticket-view.md
+  # - Single Ticket Details: single-ticket-details.md
+  # - Single Ticket History: single-ticket-history.md
 copyright: |
   Documented By Prajin Shrestha.<br>
   &copy; 2024 Worldlink Communications <a href="mailto:programming@worldlink.com.np">Programming</a>.
