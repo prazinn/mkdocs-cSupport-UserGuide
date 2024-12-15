@@ -17,11 +17,11 @@ This is the section where you can find the details of the customer which include
 
 By clicking on the more option you will find the following features:
 
-1. Reset Password.
-1. Send Notification.
-1. Add Preferred Languages.
-1. Edit Profile.
-1. Quick Links.
+1. [Reset Password.](#reset-password)
+1. [Send Notifications.](#send-notifications)
+1. [Add Preferred Languages.](#add-preferred-languages)
+1. [Edit Profile.](#edit-profile)
+1. [Quick Links.](#quick-links)
 
 ### Reset Password
 

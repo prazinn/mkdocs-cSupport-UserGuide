@@ -24,10 +24,12 @@ nav:
  - Customer Search Dashboard:
     - Customer View: customer-view.md
     - Customer Details: customer-details.md
+    - Create Ticket: create-ticket.md
     - Username Tabs: username-tabs.md
     - Feature Navigation Bar: feature-navigation-bar.md
     - Tickets : tickets.md 
     - Activites : activites.md
+    - Client Emotion : client-emotion.md
 copyright: |
   Documented By Prajin Shrestha.<br>
   &copy; 2024 Worldlink Communications <a href="mailto:programming@worldlink.com.np">Programming</a>.
