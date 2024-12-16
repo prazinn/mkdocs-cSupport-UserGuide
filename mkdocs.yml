@@ -21,6 +21,12 @@ nav:
    - User Dashboard: user-dashboard.md
    - Navigation Bar: navigation-bar.md
    - Ticket Details: ticket-details.md
+ - Client:
+   - Client List: client-list.md
+ - Ticket:
+   - Ticket List: ticket-list.md
+ - User Management: 
+   - User : user.md
  - Customer Search Dashboard:
     - Customer View: customer-view.md
     - Customer Details: customer-details.md

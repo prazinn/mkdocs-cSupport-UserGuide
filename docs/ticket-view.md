@@ -14,3 +14,6 @@ This dashboard consists of different components. Some of them are listed below:
 1. [Ticket Cards.](ticket-cards.md)
 1. [Ticket Tables.](ticket-tables.md)
 1. [SLA Timeline](SLA-timeline.md)
+
+!!! note
+     You will only be allowed to view the tickets of the branch you  belong to.
