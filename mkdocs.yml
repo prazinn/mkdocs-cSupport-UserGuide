@@ -27,6 +27,11 @@ nav:
    - Ticket List: ticket-list.md
  - User Management: 
    - User : user.md
+ - Quick Links: 
+   - Moible App : mobile-app.md
+   - Sales Query : sales-query.md
+   - Customer Portal : customer-portal.md
+   - Online Payment Dashboard: online-payment-dashboard.md
  - Customer Search Dashboard:
     - Customer View: customer-view.md
     - Customer Details: customer-details.md
