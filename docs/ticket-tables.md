@@ -55,3 +55,10 @@ This section provides details about the ticket's work log, including comments, t
 
 ## Ticket Journey
 
+This section provides a graphical representation of the ticket's journey which includes the information about the ticket status, when it was assigned and solved etc..
+
+![Ticket Journey](img/ticket-journey.png){ style="display: block; margin: auto;" }
+<div align="center">
+<i style="font-size: 14px; color: grey;">Fig. Ticket Journey</i>
+</div><br>
+
